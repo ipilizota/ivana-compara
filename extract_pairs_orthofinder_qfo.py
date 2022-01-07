@@ -17,7 +17,7 @@
 
 Typical usage examples::
 
-    $ python extract_orthologues_qfo_orthofinder.py \
+    $ python extract_pairs_orthofinder_qfo.py \
     --predictions /path/to/OrthoFinder/Results_XXXXX/Orthologues \
     --out_file /path/to/output/file.txt
 
